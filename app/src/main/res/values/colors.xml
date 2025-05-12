@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores do tema escuro -->
+    <color name="dark_background">#FF121212</color>
+
+    <!-- Cores do display -->
+    <color name="display_text_primary">#FFFFFFFF</color>
+    <color name="display_text_secondary">#B3FFFFFF</color>  <!-- Branco com 70% de opacidade -->
+
+    <!-- Cores dos botões -->
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="number_button">#FF333333</color>
+    <color name="operation_button">#FFFF9500</color>
+    <color name="scientific_button">#FF505050</color>
+    <color name="function_button">#FFA5A5A5</color>
+    <color name="equals_button">#FFFF9500</color>
+
+    <color name="error_color">#FFFF4444</color>
+    <color name="inverse_mode_active">#FF4CAF50</color>
+</resources>
